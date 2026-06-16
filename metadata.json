@@ -1,0 +1,6 @@
+{
+  "name": "Gola 3",
+  "description": "Premium AI video generator that instantly turns text prompts and images into high-fidelity animated cinematic scenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
